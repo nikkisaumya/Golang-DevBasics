@@ -1,5 +1,5 @@
 
-1. git clone https://github.com/nikkisaumya/Golang-DevBasics/edit/develop-fetcher/macaddressfetcher
+1. git clone https://github.com/nikkisaumya/Golang-DevBasics.git
 2. cd Golang-DevBasics -> which contains in Dockerfile
 3. build the docker -> docker build -t macaddressfetcher .
 4. Add the api key in config file (path: conf/config.json)
