@@ -1,5 +1,4 @@
 #base image for go application                                                                                                                                                                                  
-#FROM golang:alpine
 FROM golang:1.15-alpine
 #create a dir that will hold our application
 RUN mkdir /opt/macaddressfetcher
