@@ -62,7 +62,7 @@ Successfully built 0dd4bf1d7fea
 Successfully tagged macaddressfetcher:latest
 ```
 
-****#Step1: Docker Run macaddressfetcher app**
+**#Step2: Docker Run macaddressfetcher app**
 ```
 root# docker run -it macaddressfetcher -mac="44:38:39:ff:ef:57"
 ```
